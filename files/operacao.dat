@@ -1,0 +1,554 @@
+1101-Compra Para Industrializacao
+1102-Compra Para Comercializacao
+1111-Compra Para Industrializacao De Mercadoria Recebida Anteriormente Em Consignacao Industrial
+1113-Compra Para Comercializacao, De Mercadoria Recebida Anteriormente Em Consignacao Mercantil
+1116-Compra Para Industrializacao Originada De Encomenda Para Recebimento Futuro
+1117-Compra Para Comercializacao Originada De Encomenda Para Recebimento Futuro
+1118-Compra De Mercadoria Para Comercializacao Pelo Adquirente Originario, Entregue Pelo Vendedor Remetente Ao Destinatario, Em Venda A Ordem
+1120-Compra Para Industrializacao, Em Venda A Ordem, Ja Recebida Do Vendedor Remetente
+1121-Compra Para Comercializacao, Em Venda A Ordem, Ja Recebida Do Vendedor Remetente
+1122-Compra Para Industrializacao Em Que A Mercadoria Foi Remetida Pelo Fornecedor Ao Industrializador Sem Transitar Pelo Estabelecimento Adquirente
+1124-Industrializacao Efetuada Por Outra Empresa
+1125-Industrializacao Efetuada Por Outra Empresa Quando A Mercadoria Remetida Para Utilizacao No Processo De Industrializacao Nao Transitou Pelo Estabelecimento Adquirente Da Mercadoria
+1126-Compra Para Utilizacao Na Prestacao De Servico
+1131-Entrada De Mercadoria Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Decorrente De Operacao De Ato Cooperativo
+1132-Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Em Ato Cooperativo, Para Comercializacao
+1135-Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Em Ato Cooperativo, Para Industrializacao
+1151-Transferencia Para Industrializacao
+1152-Transferencia Para Comercializacao
+1153-Transferencia De Energia Eletrica Para Distribuicao
+1154-Transferencia Para Utilizacao Na Prestacao De Servico
+1201-Devolucao De Venda De Producao Do Estabelecimento
+1202-Devolucao De Venda De Mercadoria Adquirida Ou Recebida De Terceiros
+1203-Devolucao De Venda De Producao Do Estabelecimento, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+1204-Devolucao De Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+1205-Anulacao De Valor Relativo A Prestacao De Servico De Comunicacao
+1206-Anulacao De Valor Relativo A Prestacao De Servico De Transporte
+1207-Anulacao De Valor Relativo A Venda De Energia Eletrica
+1208-Devolucao De Producao Do Estabelecimento, Remetida Em Transferencia
+1209-Devolucao De Mercadoria Adquirida Ou Recebida De Terceiros, Remetida Em Transferencia
+1213-Devolucao De Remessa De Producao Do Estabelecimento Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Em Ato Cooperativo
+1214-Devolucao De Fixacao De Preco De Producao Do Estabelecimento Produtor, De Ato Cooperativo
+1251-Compra De Energia Eletrica Para Distribuicao Ou Comercializacao
+1252-Compra De Energia Eletrica Por Estabelecimento Industrial
+1253-Compra De Energia Eletrica Por Estabelecimento Comercial
+1254-Compra De Energia Eletrica Por Estabelecimento Prestador De Servico De Transporte
+1255-Compra De Energia Eletrica Por Estabelecimento Prestador De Servico De Comunicacao
+1256-Compra De Energia Eletrica Por Estabelecimento De Produtor Rural
+1257-Compra De Energia Eletrica Para Consumo Por Demanda Contratada
+1301-Aquisicao De Servico De Comunicacao Para Execucao De Servico Da Mesma Natureza
+1302-Aquisicao De Servico De Comunicacao Por Estabelecimento Industrial
+1303-Aquisicao De Servico De Comunicacao Por Estabelecimento Comercial
+1304-Aquisicao De Servico De Comunicacao Por Estabelecimento De Prestador De Servico De Transporte
+1305-Aquisicao De Servico De Comunicacao Por Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+1306-Aquisicao De Servico De Comunicacao Por Estabelecimento De Produtor Rural
+1351-Aquisicao De Servico De Transporte Para Execucao De Servico Da Mesma Natureza
+1352-Aquisicao De Servico De Transporte Por Estabelecimento Industrial
+1353-Aquisicao De Servico De Transporte Por Estabelecimento Comercial
+1354-Aquisicao De Servico De Transporte Por Estabelecimento De Prestador De Servico De Comunicacao
+1355-Aquisicao De Servico De Transporte Por Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+1356-Aquisicao De Servico De Transporte Por Estabelecimento De Produtor Rural
+1401-Compra Para Industrializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+1403-Compra Para Comercializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+1406-Compra De Bem Para O Ativo Imobilizado Cuja Mercadoria Esta Sujeita Ao Regime De Substituicao Tributaria
+1407-Compra De Mercadoria Para Uso Ou Consumo Cuja Mercadoria Esta Sujeita Ao Regime De Substituicao Tributaria
+1408-Transferencia Para Industrializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+1409-Transferencia Para Comercializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+1410-Devolucao De Venda De Producao Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+1411-Devolucao De Venda De Mercadoria Adquirida Ou Recebida De Terceiros Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+1414-Retorno De Producao Do Estabelecimento, Remetida Para Venda Fora Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+1415-Retorno De Mercadoria Adquirida Ou Recebida De Terceiros, Remetida Para Venda Fora Do Estabelecimento Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+1451-Retorno De Animal Do Estabelecimento Produtor
+1452-Retorno De Insumo Nao Utilizado Na Producao
+1501-Entrada De Mercadoria Recebida Com Fim Especifico De Exportacao
+1503-Entrada Decorrente De Devolucao De Produto Remetido Com Fim Especifico De Exportacao, De Producao Do Estabelecimento
+1504-Entrada Decorrente De Devolucao De Mercadoria Remetida Com Fim Especifico De Exportacao, Adquirida Ou Recebida De Terceiros
+1551-Compra De Bem Para O Ativo Imobilizado
+1552-Transferencia De Bem Do Ativo Imobilizado
+1553-Devolucao De Venda De Bem Do Ativo Imobilizado
+1554-Retorno De Bem Do Ativo Imobilizado Remetido Para Uso Fora Do Estabelecimento
+1555-Entrada De Bem Do Ativo Imobilizado De Terceiro, Remetido Para Uso No Estabelecimento
+1556-Compra De Material Para Uso Ou Consumo
+1557-Transferencia De Material Para Uso Ou Consumo
+1601-Recebimento, Por Transferencia, De Credito De Icms
+1602-Recebimento, Por Transferencia, De Saldo Credor De Icms De Outro Estabelecimento Da Mesma Empresa, Para Compensacao De Saldo Devedor De Icms
+1603-Ressarcimento De Icms Retido Por Substituicao Tributaria
+1604-Lancamento Do Credito Relativo A Compra De Bem Para O Ativo Imobilizado (Ajuste Sinief 05/02)
+1605-Recebimento, Por Transferencia, De Saldo Devedor De Icms De Outro Estabelecimento Da Mesma Empresa (Ajuste Sinief 03/04)
+1651-Compra De Combustivel Ou Lubrificante Para Industrializacao Subsequente (Ajuste Sinief 09/03)
+1652-Compra De Combustivel Ou Lubrificante Para Comercializacao (Ajuste Sinief 09/03)
+1653-Compra De Combustivel Ou Lubrificante Por Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+1658-Transferencia De Combustivel E Lubrificante Para Industrializacao (Ajuste Sinief 09/03)
+1659-Transferencia De Combustivel E Lubrificante Para Comercializacao (Ajuste Sinief 09/03)
+1660-Devolucao De Venda De Combustivel Ou Lubrificante Destinado A Industrializacao Subsequente (Ajuste Sinief 09/03)
+1661-Devolucao De Venda De Combustivel Ou Lubrificante Destinado A Comercializacao (Ajuste Sinief 09/03)
+1662-Devolucao De Venda De Combustivel Ou Lubrificante Destinado A Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+1663-Entrada De Combustivel Ou Lubrificante Para Armazenagem (Ajuste Sinief 09/03)
+1664-Retorno De Combustivel Ou Lubrificante Remetido Para Armazenagem (Ajuste Sinief 09/03)
+1901-Entrada Para Industrializacao Por Encomenda
+1902-Retorno De Mercadoria Remetida Para Industrializacao Por Encomenda
+1903-Entrada De Mercadoria Remetida Para Industrializacao E Nao Aplicada No Referido Processo
+1904-Retorno De Remessa Para Venda Fora Do Estabelecimento
+1905-Entrada De Mercadoria Recebida Para Deposito Em Deposito Fechado Ou Armazem Geral
+1906-Retorno De Mercadoria Remetida Para Deposito Fechado Ou Armazem Geral
+1907-Retorno Simbolico De Mercadoria Remetida Para Deposito Fechado Ou Armazem Geral
+1908-Entrada De Bem Por Conta De Contrato De Comodato
+1909-Retorno De Bem Remetido Por Conta De Contrato De Comodato
+1910-Entrada De Bonificacao, Doacao Ou Brinde
+1911-Entrada De Amostra Gratis
+1912-Entrada De Mercadoria Ou Bem Recebido Para Demonstracao
+1913-Retorno De Mercadoria Ou Bem Remetido Para Demonstracao
+1914-Retorno De Mercadoria Ou Bem Remetido Para Exposicao Ou Feira
+1915-Entrada De Mercadoria Ou Bem Recebido Para Conserto Ou Reparo
+1916-Retorno De Mercadoria Ou Bem Remetido Para Conserto Ou Reparo
+1917-Entrada De Mercadoria Recebida Em Consignacao Mercantil Ou Industrial
+1918-Devolucao De Mercadoria Remetida Em Consignacao Mercantil Ou Industrial
+1919-Devolucao Simbolica De Mercadoria Vendida Ou Utilizada Em Processo Industrial, Remetida Anteriormente Em Consignacao Mercantil Ou Industrial
+1920-Entrada De Vasilhame Ou Sacaria
+1921-Retorno De Vasilhame Ou Sacaria
+1922-Lancamento Efetuado A Titulo De Simples Faturamento Decorrente De Compra Para Recebimento Futuro
+1923-Entrada De Mercadoria Recebida Do Vendedor Remetente, Em Venda A Ordem
+1924-Entrada Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Esta Nao Transitar Pelo Estabelecimento Do Adquirente
+1925-Retorno De Mercadoria Remetida Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Esta Nao Transitar Pelo Estabelecimento Do Adquirente
+1926-Lancamento Efetuado A Titulo De Reclassificacao De Mercadoria Decorrente De Formacao De Kit Ou De Sua Desagregacao
+1931-Lancamento Efetuado Pelo Tomador Do Servico De Transporte Quando A Responsabilidade De Retencao Do Imposto For Atribuida Ao Remetente Ou Alienante Da Mercadoria, Pelo Servico De Transporte Realizado Por Transportador Autonomo Ou Por Transportador Nao Inscrito Na Unidade Da Federacao Onde Iniciado O Servico (Ajuste Sinief 03/04)
+1932-Aquisicao De Servico De Transporte Iniciado Em Unidade Da Federacao Diversa Daquela Onde Inscrito O Prestador (Ajuste Sinief 03/04) 
+1933-Aquisicao De Servico Tributado Pelo Issqn (Ajuste Sinief 03/04)
+1949-Outra Entrada De Mercadoria Ou Prestacao De Servico Nao Especificada
+2101-Compra Para Industrializacao
+2102-Compra Para Comercializacao
+2111-Compra Para Industrializacao De Mercadoria Recebida Anteriormente Em Consignacao Industrial
+2113-Compra Para Comercializacao, De Mercadoria Recebida Anteriormente Em Consignacao Mercantil
+2116-Compra Para Industrializacao Originada De Encomenda Para Recebimento Futuro
+2117-Compra Para Comercializacao Originada De Encomenda Para Recebimento Futuro
+2118-Compra De Mercadoria Para Comercializacao Pelo Adquirente Originario, Entregue Pelo Vendedor Remetente Ao Destinatario, Em Venda A Ordem
+2120-Compra Para Industrializacao, Em Venda A Ordem, Ja Recebida Do Vendedor Remetente
+2121-Compra Para Comercializacao, Em Venda A Ordem, Ja Recebida Do Vendedor Remetente
+2122-Compra Para Industrializacao Em Que A Mercadoria Foi Remetida Pelo Fornecedor Ao Industrializador Sem Transitar Pelo Estabelecimento Adquirente
+2124-Industrializacao Efetuada Por Outra Empresa
+2125-Industrializacao Efetuada Por Outra Empresa Quando A Mercadoria Remetida Para Utilizacao No Processo De Industrializacao Nao Transitou Pelo Estabelecimento Adquirente Da Mercadoria
+2126-Compra Para Utilizacao Na Prestacao De Servico
+2131-Entrada De Mercadoria Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Decorrente De Operacao De Ato Cooperativo
+2132-Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Em Ato Cooperativo, Para Comercializacao
+2135-Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Em Ato Cooperativo, Para Industrializacao
+2151-Transferencia Para Industrializacao
+2152-Transferencia Para Comercializacao
+2153-Transferencia De Energia Eletrica Para Distribuicao
+2154-Transferencia Para Utilizacao Na Prestacao De Servico
+2201-Devolucao De Venda De Producao Do Estabelecimento
+2202-Devolucao De Venda De Mercadoria Adquirida Ou Recebida De Terceiros
+2203-Devolucao De Venda De Producao Do Estabelecimento, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+2204-Devolucao De Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+2205-Anulacao De Valor Relativo A Prestacao De Servico De Comunicacao
+2206-Anulacao De Valor Relativo A Prestacao De Servico De Transporte
+2207-Anulacao De Valor Relativo A Venda De Energia Eletrica
+2208-Devolucao De Producao Do Estabelecimento, Remetida Em Transferencia
+2209-Devolucao De Mercadoria Adquirida Ou Recebida De Terceiros, Remetida Em Transferencia
+2213-Devolucao De Remessa De Producao Do Estabelecimento Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Em Ato Cooperativo
+2214-Devolucao De Fixacao De Preco De Producao Do Estabelecimento Produtor, De Ato Cooperativo
+2251-Compra De Energia Eletrica Para Distribuicao Ou Comercializacao
+2252-Compra De Energia Eletrica Por Estabelecimento Industrial
+2253-Compra De Energia Eletrica Por Estabelecimento Comercial
+2254-Compra De Energia Eletrica Por Estabelecimento Prestador De Servico De Transporte
+2255-Compra De Energia Eletrica Por Estabelecimento Prestador De Servico De Comunicacao
+2256-Compra De Energia Eletrica Por Estabelecimento De Produtor Rural
+2257-Compra De Energia Eletrica Para Consumo Por Demanda Contratada
+2301-Aquisicao De Servico De Comunicacao Para Execucao De Servico Da Mesma Natureza
+2302-Aquisicao De Servico De Comunicacao Por Estabelecimento Industrial
+2303-Aquisicao De Servico De Comunicacao Por Estabelecimento Comercial
+2304-Aquisicao De Servico De Comunicacao Por Estabelecimento De Prestador De Servico De Transporte
+2305-Aquisicao De Servico De Comunicacao Por Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+2306-Aquisicao De Servico De Comunicacao Por Estabelecimento De Produtor Rural
+2351-Aquisicao De Servico De Transporte Para Execucao De Servico Da Mesma Natureza
+2352-Aquisicao De Servico De Transporte Por Estabelecimento Industrial
+2353-Aquisicao De Servico De Transporte Por Estabelecimento Comercial
+2354-Aquisicao De Servico De Transporte Por Estabelecimento De Prestador De Servico De Comunicacao
+2355-Aquisicao De Servico De Transporte Por Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+2356-Aquisicao De Servico De Transporte Por Estabelecimento De Produtor Rural
+2401-Compra Para Industrializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+2403-Compra Para Comercializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+2406-Compra De Bem Para O Ativo Imobilizado Cuja Mercadoria Esta Sujeita Ao Regime De Substituicao Tributaria
+2407-Compra De Mercadoria Para Uso Ou Consumo Cuja Mercadoria Esta Sujeita Ao Regime De Substituicao Tributaria
+2408-Transferencia Para Industrializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+2409-Transferencia Para Comercializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+2410-Devolucao De Venda De Producao Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+2411-Devolucao De Venda De Mercadoria Adquirida Ou Recebida De Terceiros Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+2414-Retorno De Producao Do Estabelecimento, Remetida Para Venda Fora Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+2415-Retorno De Mercadoria Adquirida Ou Recebida De Terceiros, Remetida Para Venda Fora Do Estabelecimento Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+2501-Entrada De Mercadoria Recebida Com Fim Especifico De Exportacao
+2503-Entrada Decorrente De Devolucao De Produto Remetido Com Fim Especifico De Exportacao, De Producao Do Estabelecimento
+2504-Entrada Decorrente De Devolucao De Mercadoria Remetida Com Fim Especifico De Exportacao, Adquirida Ou Recebida De Terceiros
+2551-Compra De Bem Para O Ativo Imobilizado
+2552-Transferencia De Bem Do Ativo Imobilizado
+2553-Devolucao De Venda De Bem Do Ativo Imobilizado
+2554-Retorno De Bem Do Ativo Imobilizado Remetido Para Uso Fora Do Estabelecimento
+2555-Entrada De Bem Do Ativo Imobilizado De Terceiro, Remetido Para Uso No Estabelecimento
+2556-Compra De Material Para Uso Ou Consumo
+2557-Transferencia De Material Para Uso Ou Consumo 
+2603-Ressarcimento De Icms Retido Por Substituicao Tributaria
+2651-Compra De Combustivel Ou Lubrificante Para Industrializacao Subsequente (Ajuste Sinief 09/03)
+2652-Compra De Combustivel Ou Lubrificante Para Comercializacao (Ajuste Sinief 09/03)
+2653-Compra De Combustivel Ou Lubrificante Por Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+2658-Transferencia De Combustivel E Lubrificante Para Industrializacao (Ajuste Sinief 09/03)
+2659-Transferencia De Combustivel E Lubrificante Para Comercializacao (Ajuste Sinief 09/03)
+2660-Devolucao De Venda De Combustivel Ou Lubrificante Destinado A Industrializacao Subsequente (Ajuste Sinief 09/03)
+2661-Devolucao De Venda De Combustivel Ou Lubrificante Destinado A Comercializacao (Ajuste Sinief 09/03)
+2662-Devolucao De Venda De Combustivel Ou Lubrificante Destinado A Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+2663-Entrada De Combustivel Ou Lubrificante Para Armazenagem (Ajuste Sinief 09/03)
+2664-Retorno De Combustivel Ou Lubrificante Remetido Para Armazenagem (Ajuste Sinief 09/03)
+2901-Entrada Para Industrializacao Por Encomenda
+2902-Retorno De Mercadoria Remetida Para Industrializacao Por Encomenda
+2903-Entrada De Mercadoria Remetida Para Industrializacao E Nao Aplicada No Referido Processo
+2904-Retorno De Remessa Para Venda Fora Do Estabelecimento
+2905-Entrada De Mercadoria Recebida Para Deposito Em Deposito Fechado Ou Armazem Geral
+2906-Retorno De Mercadoria Remetida Para Deposito Fechado Ou Armazem Geral
+2907-Retorno Simbolico De Mercadoria Remetida Para Deposito Fechado Ou Armazem Geral
+2908-Entrada De Bem Por Conta De Contrato De Comodato
+2909-Retorno De Bem Remetido Por Conta De Contrato De Comodato
+2910-Entrada De Bonificacao, Doacao Ou Brinde
+2911-Entrada De Amostra Gratis
+2912-Entrada De Mercadoria Ou Bem Recebido Para Demonstracao
+2913-Retorno De Mercadoria Ou Bem Remetido Para Demonstracao
+2914-Retorno De Mercadoria Ou Bem Remetido Para Exposicao Ou Feira
+2915-Entrada De Mercadoria Ou Bem Recebido Para Conserto Ou Reparo
+2916-Retorno De Mercadoria Ou Bem Remetido Para Conserto Ou Reparo
+2917-Entrada De Mercadoria Recebida Em Consignacao Mercantil Ou Industrial
+2918-Devolucao De Mercadoria Remetida Em Consignacao Mercantil Ou Industrial
+2919-Devolucao Simbolica De Mercadoria Vendida Ou Utilizada Em Processo Industrial, Remetida Anteriormente Em Consignacao Mercantil Ou Industrial
+2920-Entrada De Vasilhame Ou Sacaria
+2921-Retorno De Vasilhame Ou Sacaria
+2922-Lancamento Efetuado A Titulo De Simples Faturamento Decorrente De Compra Para Recebimento Futuro
+2923-Entrada De Mercadoria Recebida Do Vendedor Remetente, Em Venda A Ordem
+2924-Entrada Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Esta Nao Transitar Pelo Estabelecimento Do Adquirente
+2925-Retorno De Mercadoria Remetida Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Esta Nao Transitar Pelo Estabelecimento Do Adquirente
+2931-Lancamento Efetuado Pelo Tomador Do Servico De Transporte Quando A Responsabilidade De Retencao Do Imposto For Atribuida Ao Remetente Ou Alienante Da Mercadoria, Pelo Servico De Transporte Realizado Por Transportador Autonomo Ou Por Transportador Nao Inscrito Na Unidade Da Federacao Onde Iniciado O Servico (Ajuste Sinief 03/04)
+2932-Aquisicao De Servico De Transporte Iniciado Em Unidade Da Federacao Diversa Daquela Onde Inscrito O Prestador (Ajuste Sinief 03/04)
+2933-Aquisicao De Servico Tributado Pelo Issqn (Ajuste Sinief 03/04)
+2949-Outra Entrada De Mercadoria Ou Prestacao De Servico Nao Especificada
+3101-Compra Para Industrializacao
+3102-Compra Para Comercializacao
+3127-Compra Para Industrializacao Sob O Regime De Drawback 
+3201-Devolucao De Venda De Producao Do Estabelecimento
+3202-Devolucao De Venda De Mercadoria Adquirida Ou Recebida De Terceiros
+3205-Anulacao De Valor Relativo A Prestacao De Servico De Comunicacao
+3206-Anulacao De Valor Relativo A Prestacao De Servico De Transporte
+3207-Anulacao De Valor Relativo A Venda De Energia Eletrica
+3211-Devolucao De Venda De Producao Do Estabelecimento Sob O Regime De Drawback
+3251-Compra De Energia Eletrica Para Distribuicao Ou Comercializacao
+3301-Aquisicao De Servico De Comunicacao Para Execucao De Servico Da Mesma Natureza
+3351-Aquisicao De Servico De Transporte Para Execucao De Servico Da Mesma Natureza
+3352-Aquisicao De Servico De Transporte Por Estabelecimento Industrial
+3353-Aquisicao De Servico De Transporte Por Estabelecimento Comercial
+3354-Aquisicao De Servico De Transporte Por Estabelecimento De Prestador De Servico De Comunicacao
+3355-Aquisicao De Servico De Transporte Por Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+3356-Aquisicao De Servico De Transporte Por Estabelecimento De Produtor Rural
+3503-Devolucao De Mercadoria Exportada Que Tenha Sido Recebida Com Fim Especifico De Exportacao
+3551-Compra De Bem Para O Ativo Imobilizado
+3553-Devolucao De Venda De Bem Do Ativo Imobilizado
+3556-Compra De Material Para Uso Ou Consumo
+3651-Compra De Combustivel Ou Lubrificante Para Industrializacao Subsequente (Ajuste Sinief 09/03)
+3652-Compra De Combustivel Ou Lubrificante Para Comercializacao (Ajuste Sinief 09/03)
+3653-Compra De Combustivel Ou Lubrificante Por Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+3930-Lancamento Efetuado A Titulo De Entrada De Bem Sob Amparo De Regime Especial Aduaneiro De Admissao Temporaria
+3949-Outra Entrada De Mercadoria Ou Prestacao De Servico Nao Especificada
+5101-Venda De Producao Do Estabelecimento
+5102-Venda De Mercadoria Adquirida Ou Recebida De Terceiros
+5103-Venda De Producao Do Estabelecimento, Efetuada Fora Do Estabelecimento
+5104-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Efetuada Fora Do Estabelecimento
+5105-Venda De Producao Do Estabelecimento Que Nao Deva Por Ele Transitar
+5106-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Que Nao Deva Por Ele Transitar
+5109-Venda De Producao Do Estabelecimento, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+5110-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+5111-Venda De Producao Do Estabelecimento Remetida Anteriormente Em Consignacao Industrial
+5112-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Remetida Anteriormente Em Consignacao Industrial
+5113-Venda De Producao Do Estabelecimento Remetida Anteriormente Em Consignacao Mercantil
+5114-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Remetida Anteriormente Em Consignacao Mercantil
+5115-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Recebida Anteriormente Em Consignacao Mercantil
+5116-Venda De Producao Do Estabelecimento Originada De Encomenda Para Entrega Futura
+5117-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Originada De Encomenda Para Entrega Futura
+5118-Venda De Producao Do Estabelecimento Entregue Ao Destinatario Por Conta E Ordem Do Adquirente Originario, Em Venda A Ordem
+5119-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Entregue Ao Destinatario Por Conta E Ordem Do Adquirente Originario, Em Venda A Ordem 
+5120-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Entregue Ao Destinatario Pelo Vendedor Remetente, Em Venda A Ordem
+5122-Venda De Producao Do Estabelecimento Remetida Para Industrializacao, Por Conta E Ordem Do Adquirente, Sem Transitar Pelo Estabelecimento Do Adquirente
+5123-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Remetida Para Industrializacao, Por Conta E Ordem Do Adquirente, Sem Transitar Pelo Estabelecimento Do Adquirente
+5124-Industrializacao Efetuada Para Outra Empresa
+5125-Industrializacao Efetuada Para Outra Empresa Quando A Mercadoria Recebida Para Utilizacao No Processo Nao Transitar Pelo Estabelecimento Adquirente
+5131-Remessa De Producao Do Estabelecimento, Com Previsao De Posterior Ajuste Ou Fixacao De Preco, De Ato Cooperativo
+5132-Fixacao De Preco De Producao Do Estabelecimento, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco De Ato Cooperativo
+5151-Transferencia De Producao Do Estabelecimento
+5152-Transferencia De Mercadoria Adquirida Ou Recebida De Terceiros
+5153-Transferencia De Energia Eletrica
+5155-Transferencia De Producao Do Estabelecimento, Que Nao Deva Por Ele Transitar
+5156-Transferencia De Mercadoria Adquirida Ou Recebida De Terceiros, Que Nao Deva Por Ele Transitar
+5201-Devolucao De Compra Para Industrializacao
+5202-Devolucao De Compra Para Comercializacao
+5205-Anulacao De Valor Relativo A Aquisicao De Servico De Comunicacao
+5206-Anulacao De Valor Relativo A Aquisicao De Servico De Transporte
+5207-Anulacao De Valor Relativo A Compra De Energia Eletrica
+5208-Devolucao De Mercadoria Recebida Em Transferencia Para Industrializacao 
+5209-Devolucao De Mercadoria Recebida Em Transferencia Para Comercializacao
+5210-Devolucao De Compra Para Utilizacao Na Prestacao De Servico
+5213-Devolucao De Entrada De Mercadoria Com Previsao De Posterior Ajuste Ou Fixacao De Preco, Em Ato Cooperativo
+5214-Devolucao De Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco, De Ato Cooperativo, Para Comercializacao
+5215-Devolucao De Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco, De Ato Cooperativo, Para Industrializacao
+5251-Venda De Energia Eletrica Para Distribuicao Ou Comercializacao
+5252-Venda De Energia Eletrica Para Estabelecimento Industrial
+5253-Venda De Energia Eletrica Para Estabelecimento Comercial
+5254-Venda De Energia Eletrica Para Estabelecimento Prestador De Servico De Transporte
+5255-Venda De Energia Eletrica Para Estabelecimento Prestador De Servico De Comunicacao
+5256-Venda De Energia Eletrica Para Estabelecimento De Produtor Rural
+5257-Venda De Energia Eletrica Para Consumo Por Demanda Contratada
+5258-Venda De Energia Eletrica A Nao Contribuinte
+5301-Prestacao De Servico De Comunicacao Para Execucao De Servico Da Mesma Natureza
+5302-Prestacao De Servico De Comunicacao A Estabelecimento Industrial
+5303-Prestacao De Servico De Comunicacao A Estabelecimento Comercial
+5304-Prestacao De Servico De Comunicacao A Estabelecimento De Prestador De Servico De Transporte
+5305-Prestacao De Servico De Comunicacao A Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+5306-Prestacao De Servico De Comunicacao A Estabelecimento De Produtor Rural
+5307-Prestacao De Servico De Comunicacao A Nao Contribuinte
+5351-Prestacao De Servico De Transporte Para Execucao De Servico Da Mesma Natureza
+5352-Prestacao De Servico De Transporte A Estabelecimento Industrial
+5353-Prestacao De Servico De Transporte A Estabelecimento Comercial
+5354-Prestacao De Servico De Transporte A Estabelecimento De Prestador De Servico De Comunicacao
+5355-Prestacao De Servico De Transporte A Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+5356-Prestacao De Servico De Transporte A Estabelecimento De Produtor Rural
+5357-Prestacao De Servico De Transporte A Nao Contribuinte
+5359-Prestacao De Servico De Transporte A Contribuinte Ou A Nao Contribuinte Quando A Mercadoria Transportada Esta Dispensada De Emissao De Nota Fiscal (Ajuste Sinief 03/04)
+5401-Venda De Producao Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria, Na Condicao De Contribuinte Substituto
+5402-Venda De Producao Do Estabelecimento De Produto Sujeito Ao Regime De Substituicao Tributaria, Em Operacao Entre Contribuintes Substitutos Do Mesmo Produto
+5403-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria, Na Condicao De Contribuinte Substituto 
+5405-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria, Na Condicao De Contribuinte Substituido
+5408-Transferencia De Producao Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+5409-Transferencia De Mercadoria Adquirida Ou Recebida De Terceiros Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+5410-Devolucao De Compra Para Industrializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+5411-Devolucao De Compra Para Comercializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+5412-Devolucao De Bem Do Ativo Imobilizado, Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+5413-Devolucao De Mercadoria Destinada Ao Uso Ou Consumo, Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+5414-Remessa De Producao Do Estabelecimento Para Venda Fora Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+5415-Remessa De Mercadoria Adquirida Ou Recebida De Terceiros Para Venda Fora Do Estabelecimento, Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+5451-Remessa De Animal E De Insumo Para Estabelecimento Produtor
+5452-Remessa De Insumo - Sistema De Integração E Parceria Rural
+5453-Retorno De Animal Ou Da Produção - Sistema De Integração E Parceria Rural
+5454-Retorno Simbólico De Animal Ou Da Produção - Sistema De Integração E Parceria Rural
+5455-Retorno De Insumos Não Utilizados Na Produção - Sistema De Integração E Parceria Rural
+5456-Saída Referente A Remuneração Do Produtor - Sistema De Integração E Parceria Rural
+5501-Remessa De Producao Do Estabelecimento, Com Fim Especifico De Exportacao
+5502-Remessa De Mercadoria Adquirida Ou Recebida De Terceiros, Com Fim Especifico De Exportacao
+5503-Devolucao De Mercadoria Recebida Com Fim Especifico De Exportacao
+5551-Venda De Bem Do Ativo Imobilizado
+5552-Transferencia De Bem Do Ativo Imobilizado
+5553-Devolucao De Compra De Bem Para O Ativo Imobilizado
+5554-Remessa De Bem Do Ativo Imobilizado Para Uso Fora Do Estabelecimento
+5555-Devolucao De Bem Do Ativo Imobilizado De Terceiro, Recebido Para Uso No Estabelecimento
+5556-Devolucao De Compra De Material De Uso Ou Consumo
+5557-Transferencia De Material De Uso Ou Consumo
+5601-Transferencia De Credito De Icms Acumulado 
+5602-Transferencia De Saldo Credor De Icms Para Outro Estabelecimento Da Mesma Empresa, Destinado A Compensacao De Saldo Devedor De Icms
+5603-Ressarcimento De Icms Retido Por Substituicao Tributaria
+5605-Transferencia De Saldo Devedor De Icms De Outro Estabelecimento Da Mesma Empresa (Ajuste Sinief 03/04)
+5651-Venda De Combustivel Ou Lubrificante De Producao Do Estabelecimento Destinado A Industrializacao Subsequente (Ajuste Sinief 09/03)
+5652-Venda De Combustivel Ou Lubrificante De Producao Do Estabelecimento Destinado A Comercializacao (Ajuste Sinief 09/03)
+5653-Venda De Combustivel Ou Lubrificante De Producao Do Estabelecimento Destinado A Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+5654-Venda De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Destinado A Industrializacao Subsequente (Ajuste Sinief 09/03)
+5655-Venda De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Destinado A Comercializacao (Ajuste Sinief 09/03)
+5656-Venda De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Destinado A Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+5657-Remessa De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Para Venda Fora Do Estabelecimento (Ajuste Sinief 09/03)
+5658-Transferencia De Combustivel Ou Lubrificante De Producao Do Estabelecimento (Ajuste Sinief 09/03)
+5659-Transferencia De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiro (Ajuste Sinief 09/03)
+5660-Devolucao De Compra De Combustivel Ou Lubrificante Adquirido Para Industrializacao Subsequente (Ajuste Sinief 09/03)
+5661-Devolucao De Compra De Combustivel Ou Lubrificante Adquirido Para Comercializacao (Ajuste Sinief 09/03)
+5662-Devolucao De Compra De Combustivel Ou Lubrificante Adquirido Por Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+5663-Remessa Para Armazenagem De Combustivel Ou Lubrificante (Ajuste Sinief 09/03)
+5664-Retorno De Combustivel Ou Lubrificante Recebido Para Armazenagem (Ajuste Sinief 09/03)
+5665-Retorno Simbolico De Combustivel Ou Lubrificante Recebido Para Armazenagem (Ajuste Sinief 09/03)
+5666-Remessa Por Conta E Ordem De Terceiros De Combustivel Ou Lubrificante Recebido Para Armazenagem (Ajuste Sinief 09/03)
+5901-Remessa Para Industrializacao Por Encomenda
+5902-Retorno De Mercadoria Utilizada Na Industrializacao Por Encomenda
+5903-Retorno De Mercadoria Recebida Para Industrializacao E Nao Aplicada No Referido Processo
+5904-Remessa Para Venda Fora Do Estabelecimento
+5905-Remessa Para Deposito Fechado Ou Armazem Geral
+5906-Retorno De Mercadoria Depositada Em Deposito Fechado Ou Armazem Geral
+5907-Retorno Simbolico De Mercadoria Depositada Em Deposito Fechado Ou Armazem Geral 
+5908-Remessa De Bem Por Conta De Contrato De Comodato
+5909-Retorno De Bem Recebido Por Conta De Contrato De Comodato
+5910-Remessa Em Bonificacao, Doacao Ou Brinde
+5911-Remessa De Amostra Gratis
+5912-Remessa De Mercadoria Ou Bem Para Demonstracao
+5913-Retorno De Mercadoria Ou Bem Recebido Para Demonstracao
+5914-Remessa De Mercadoria Ou Bem Para Exposicao Ou Feira
+5915-Remessa De Mercadoria Ou Bem Para Conserto Ou Reparo
+5916-Retorno De Mercadoria Ou Bem Recebido Para Conserto Ou Reparo
+5917-Remessa De Mercadoria Em Consignacao Mercantil Ou Industrial
+5918-Devolucao De Mercadoria Recebida Em Consignacao Mercantil Ou Industrial
+5919-Devolucao Simbolica De Mercadoria Vendida Ou Utilizada Em Processo Industrial, Recebida Anteriormente Em Consignacao Mercantil Ou Industrial
+5920-Remessa De Vasilhame Ou Sacaria
+5921-Devolucao De Vasilhame Ou Sacaria
+5922-Lancamento Efetuado A Titulo De Simples Faturamento Decorrente De Venda Para Entrega Futura
+5923-Remessa De Mercadoria Por Conta E Ordem De Terceiros, Em Venda A Ordem
+5924-Remessa Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Esta Nao Transitar Pelo Estabelecimento Do Adquirente
+5925-Retorno De Mercadoria Recebida Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Aquela Nao Transitar Pelo Estabelecimento Do Adquirente
+5926-Lancamento Efetuado A Titulo De Reclassificacao De Mercadoria Decorrente De Formacao De Kit Ou De Sua Desagregacao
+5927-Lancamento Efetuado A Titulo De Baixa De Estoque Decorrente De Perda, Roubo Ou Deterioracao 
+5928-Lancamento Efetuado A Titulo De Baixa De Estoque Decorrente Do Encerramento Da Atividade Da Empresa
+5929-Lancamento Efetuado Em Decorrencia De Emissao De Documento Fiscal Relativo A Operacao Ou Prestacao Tambem Registrada Em Equipamento Emissor De Cupom Fiscal  Ecf
+5931-Lancamento Efetuado Em Decorrencia Da Responsabilidade De Retencao Do Imposto Por Substituicao Tributaria, Atribuida Ao Remetente Ou Alienante Da Mercadoria, Pelo Servico De Transporte Realizado Por Transportador Autonomo Ou Por Transportador Nao Inscrito Na Unidade Da Federacao Onde Iniciado O Servico
+5932-Prestacao De Servico De Transporte Iniciada Em Unidade Da Federacao Diversa Daquela Onde Inscrito O Prestador
+5933-Prestacao De Servico Tributado Pelo Issqn (Ajuste Sinief 03/04)
+5949-Outra Saida De Mercadoria Ou Prestacao De Servico Nao Especificado
+6101-Venda De Producao Do Estabelecimento
+6102-Venda De Mercadoria Adquirida Ou Recebida De Terceiros
+6103-Venda De Producao Do Estabelecimento, Efetuada Fora Do Estabelecimento
+6104-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Efetuada Fora Do Estabelecimento
+6105-Venda De Producao Do Estabelecimento Que Nao Deva Por Ele Transitar
+6106-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Que Nao Deva Por Ele Transitar
+6107-Venda De Producao Do Estabelecimento, Destinada A Nao Contribuinte
+6108-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Destinada A Nao Contribuinte
+6109-Venda De Producao Do Estabelecimento, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+6110-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Destinada A Zona Franca De Manaus Ou Areas De Livre Comercio
+6111-Venda De Producao Do Estabelecimento Remetida Anteriormente Em Consignacao Industrial
+6112-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Remetida Anteriormente Em Consignacao Industrial
+6113-Venda De Producao Do Estabelecimento Remetida Anteriormente Em Consignacao Mercantil
+6114-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Remetida Anteriormente Em Consignacao Mercantil
+6115-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Recebida Anteriormente Em Consignacao Mercantil
+6116-Venda De Producao Do Estabelecimento Originada De Encomenda Para Entrega Futura
+6117-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Originada De Encomenda Para Entrega Futura
+6118-Venda De Producao Do Estabelecimento Entregue Ao Destinatario Por Conta E Ordem Do Adquirente Originario, Em Venda A Ordem
+6119-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Entregue Ao Destinatario Por Conta E Ordem Do Adquirente Originario, Em Venda A Ordem 
+6120-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Entregue Ao Destinatario Pelo Vendedor Remetente, Em Venda A Ordem
+6122-Venda De Producao Do Estabelecimento Remetida Para Industrializacao, Por Conta E Ordem Do Adquirente, Sem Transitar Pelo Estabelecimento Do Adquirente
+6123-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Remetida Para Industrializacao, Por Conta E Ordem Do Adquirente, Sem Transitar Pelo Estabelecimento Do Adquirente
+6124-Industrializacao Efetuada Para Outra Empresa
+6125-Industrializacao Efetuada Para Outra Empresa Quando A Mercadoria Recebida Para Utilizacao No Processo Nao Transitar Pelo Estabelecimento Adquirente 
+6131-Remessa De Producao De Estabelecimento, Com Previsao De Posterior Ajuste Ou Fixacao De Pre�o De Ato Cooperativo
+6132-Fixacao De Preco De Producao Do Estabelecimento, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Preco Ou Fixacao De Preco De Ato Cooperativo
+6151-Transferencia De Producao Do Estabelecimento
+6152-Transferencia De Mercadoria Adquirida Ou Recebida De Terceiros
+6153-Transferencia De Energia Eletrica
+6155-Transferencia De Producao Do Estabelecimento, Que Nao Deva Por Ele Transitar
+6156-Transferencia De Mercadoria Adquirida Ou Recebida De Terceiros, Que Nao Deva Por Ele Transitar
+6201-Devolucao De Compra Para Industrializacao
+6202-Devolucao De Compra Para Comercializacao
+6205-Anulacao De Valor Relativo A Aquisicao De Servico De Comunicacao
+6206-Anulacao De Valor Relativo A Aquisicao De Servico De Transporte
+6207-Anulacao De Valor Relativo A Compra De Energia Eletrica
+6208-Devolucao De Mercadoria Recebida Em Transferencia Para Industrializacao 
+6209-Devolucao De Mercadoria Recebida Em Transferencia Para Comercializacao
+6210-Devolucao De Compra Para Utilizacao Na Prestacao De Servico
+6213-Devolucao De Entrada De Mercadoria Com Previsao De Posterior Ajuste Ou Fixacao De Pre�o, Em Ato Cooperativo
+6214-Devolucao De Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Pre�o, De Ato Cooperativo, Para Comercializacao
+6215-Devolucao De Fixacao De Preco De Producao Do Estabelecimento Produtor, Inclusive Quando Remetidas Anteriormente Com Previsao De Posterior Ajuste Ou Fixacao De Pre�o, De Ato Cooperativo, Para Industrializacao
+6251-Venda De Energia Eletrica Para Distribuicao Ou Comercializacao
+6252-Venda De Energia Eletrica Para Estabelecimento Industrial
+6253-Venda De Energia Eletrica Para Estabelecimento Comercial
+6254-Venda De Energia Eletrica Para Estabelecimento Prestador De Servico De Transporte
+6255-Venda De Energia Eletrica Para Estabelecimento Prestador De Servico De Comunicacao
+6256-Venda De Energia Eletrica Para Estabelecimento De Produtor Rural
+6257-Venda De Energia Eletrica Para Consumo Por Demanda Contratada
+6258-Venda De Energia Eletrica A Nao Contribuinte
+6301-Prestacao De Servico De Comunicacao Para Execucao De Servico Da Mesma Natureza
+6302-Prestacao De Servico De Comunicacao A Estabelecimento Industrial
+6303-Prestacao De Servico De Comunicacao A Estabelecimento Comercial
+6304-Prestacao De Servico De Comunicacao A Estabelecimento De Prestador De Servico De Transporte
+6305-Prestacao De Servico De Comunicacao A Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+6306-Prestacao De Servico De Comunicacao A Estabelecimento De Produtor Rural
+6307-Prestacao De Servico De Comunicacao A Nao Contribuinte
+6351-Prestacao De Servico De Transporte Para Execucao De Servico Da Mesma Natureza
+6352-Prestacao De Servico De Transporte A Estabelecimento Industrial
+6353-Prestacao De Servico De Transporte A Estabelecimento Comercial
+6354-Prestacao De Servico De Transporte A Estabelecimento De Prestador De Servico De Comunicacao
+6355-Prestacao De Servico De Transporte A Estabelecimento De Geradora Ou De Distribuidora De Energia Eletrica
+6356-Prestacao De Servico De Transporte A Estabelecimento De Produtor Rural
+6357-Prestacao De Servico De Transporte A Nao Contribuinte
+6359-Prestacao De Servico De Transporte A Contribuinte Ou A Nao Contribuinte Quando A Mercadoria Transportada Esta Dispensada De Emissao De Nota Fiscal (Ajuste Sinief 03/04)
+6401-Venda De Producao Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria, Na Condicao De Contribuinte Substituto
+6402-Venda De Producao Do Estabelecimento De Produto Sujeito Ao Regime De Substituicao Tributaria, Em Operacao Entre Contribuintes Substitutos Do Mesmo Produto
+6403-Venda De Mercadoria Adquirida Ou Recebida De Terceiros Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria, Na Condicao De Contribuinte Substituto 
+6404-Venda De Mercadoria Sujeita Ao Regime De Substituicao Tributaria, Cujo Imposto Ja Tenha Sido Retido Anteriormente
+6408-Transferencia De Producao Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+6409-Transferencia De Mercadoria Adquirida Ou Recebida De Terceiros Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+6410-Devolucao De Compra Para Industrializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+6411-Devolucao De Compra Para Comercializacao Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+6412-Devolucao De Bem Do Ativo Imobilizado, Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+6413-Devolucao De Mercadoria Destinada Ao Uso Ou Consumo, Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+6414-Remessa De Producao Do Estabelecimento Para Venda Fora Do Estabelecimento Em Operacao Com Produto Sujeito Ao Regime De Substituicao Tributaria
+6415-Remessa De Mercadoria Adquirida Ou Recebida De Terceiros Para Venda Fora Do Estabelecimento, Em Operacao Com Mercadoria Sujeita Ao Regime De Substituicao Tributaria
+6501-Remessa De Producao Do Estabelecimento, Com Fim Especifico De Exportacao
+6502-Remessa De Mercadoria Adquirida Ou Recebida De Terceiros, Com Fim Especifico De Exportacao
+6503-Devolucao De Mercadoria Recebida Com Fim Especifico De Exportacao
+6551-Venda De Bem Do Ativo Imobilizado
+6552-Transferencia De Bem Do Ativo Imobilizado
+6553-Devolucao De Compra De Bem Para O Ativo Imobilizado
+6554-Remessa De Bem Do Ativo Imobilizado Para Uso Fora Do Estabelecimento
+6555-Devolucao De Bem Do Ativo Imobilizado De Terceiro, Recebido Para Uso No Estabelecimento
+6556-Devolucao De Compra De Material De Uso Ou Consumo
+6557-Transferencia De Material De Uso Ou Consumo
+6603-Ressarcimento De Icms Retido Por Substituicao Tributaria
+6651-Venda De Combustivel Ou Lubrificante De Producao Do Estabelecimento Destinado A Industrializacao Subsequente (Ajuste Sinief 09/03)
+6652-Venda De Combustivel Ou Lubrificante De Producao Do Estabelecimento Destinado A Comercializacao (Ajuste Sinief 09/03)
+6653-Venda De Combustivel Ou Lubrificante De Producao Do Estabelecimento Destinado A Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+6654-Venda De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Destinado A Industrializacao Subsequente (Ajuste Sinief 09/03)
+6655-Venda De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Destinado A Comercializacao (Ajuste Sinief 09/03)
+6656-Venda De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Destinado A Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+6657-Remessa De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros Para Venda Fora Do Estabelecimento (Ajuste Sinief 09/03)
+6658-Transferencia De Combustivel Ou Lubrificante De Producao Do Estabelecimento (Ajuste Sinief 09/03)
+6659-Transferencia De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiro (Ajuste Sinief 09/03)
+6660-Devolucao De Compra De Combustivel Ou Lubrificante Adquirido Para Industrializacao Subsequente (Ajuste Sinief 09/03)
+6661-Devolucao De Compra De Combustivel Ou Lubrificante Adquirido Para Comercializacao (Ajuste Sinief 09/03)
+6662-Devolucao De Compra De Combustivel Ou Lubrificante Adquirido Por Consumidor Ou Usuario Final (Ajuste Sinief 09/03)
+6663-Remessa Para Armazenagem De Combustivel Ou Lubrificante (Ajuste Sinief 09/03)
+6664-Retorno De Combustivel Ou Lubrificante Recebido Para Armazenagem (Ajuste Sinief 09/03)
+6665-Retorno Simbolico De Combustivel Ou Lubrificante Recebido Para Armazenagem (Ajuste Sinief 09/03)
+6666-Remessa Por Conta E Ordem De Terceiros De Combustivel Ou Lubrificante Recebido Para Armazenagem (Ajuste Sinief 09/03)
+6901-Remessa Para Industrializacao Por Encomenda
+6902-Retorno De Mercadoria Utilizada Na Industrializacao Por Encomenda
+6903-Retorno De Mercadoria Recebida Para Industrializacao E Nao Aplicada No Referido Processo
+6904-Remessa Para Venda Fora Do Estabelecimento
+6905-Remessa Para Deposito Fechado Ou Armazem Geral
+6906-Retorno De Mercadoria Depositada Em Deposito Fechado Ou Armazem Geral
+6907-Retorno Simbolico De Mercadoria Depositada Em Deposito Fechado Ou Armazem Geral 
+6908-Remessa De Bem Por Conta De Contrato De Comodato
+6909-Retorno De Bem Recebido Por Conta De Contrato De Comodato
+6910-Remessa Em Bonificacao, Doacao Ou Brinde
+6911-Remessa De Amostra Gratis
+6912-Remessa De Mercadoria Ou Bem Para Demonstracao
+6913-Retorno De Mercadoria Ou Bem Recebido Para Demonstracao
+6914-Remessa De Mercadoria Ou Bem Para Exposicao Ou Feira
+6915-Remessa De Mercadoria Ou Bem Para Conserto Ou Reparo
+6916-Retorno De Mercadoria Ou Bem Recebido Para Conserto Ou Reparo
+6917-Remessa De Mercadoria Em Consignacao Mercantil Ou Industrial
+6918-Devolucao De Mercadoria Recebida Em Consignacao Mercantil Ou Industrial
+6919-Devolucao Simbolica De Mercadoria Vendida Ou Utilizada Em Processo Industrial, Recebida Anteriormente Em Consignacao Mercantil Ou Industrial
+6920-Remessa De Vasilhame Ou Sacaria
+6921-Devolucao De Vasilhame Ou Sacaria
+6922-Lancamento Efetuado A Titulo De Simples Faturamento Decorrente De Venda Para Entrega Futura
+6923-Remessa De Mercadoria Por Conta E Ordem De Terceiros, Em Venda A Ordem
+6924-Remessa Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Esta Nao Transitar Pelo Estabelecimento Do Adquirente
+6925-Retorno De Mercadoria Recebida Para Industrializacao Por Conta E Ordem Do Adquirente Da Mercadoria, Quando Aquela Nao Transitar Pelo Estabelecimento Do Adquirente
+6929-Lancamento Efetuado Em Decorrencia De Emissao De Documento Fiscal Relativo A Operacao Ou Prestacao Tambem Registrada Em Equipamento Emissor De Cupom Fiscal  Ecf
+6931-Lancamento Efetuado Em Decorrencia Da Responsabilidade De Retencao Do Imposto Por Substituicao Tributaria, Atribuida Ao Remetente Ou Alienante Da Mercadoria, Pelo Servico De Transporte Realizado Por Transportador Autonomo Ou Por Transportador Nao Inscrito Na Unidade Da Federacao Onde Iniciado O Servico
+6932-Prestacao De Servico De Transporte Iniciada Em Unidade Da Federacao Diversa Daquela Onde Inscrito O Prestador
+6933-Prestacao De Servico Tributado Pelo Issqn (Ajuste Sinief 03/04)
+6949-Outra Saida De Mercadoria Ou Prestacao De Servico Nao Especificado
+7101-Venda De Producao Do Estabelecimento
+7102-Venda De Mercadoria Adquirida Ou Recebida De Terceiros
+7105-Venda De Producao Do Estabelecimento Que Nao Deva Por Ele Transitar
+7106-Venda De Mercadoria Adquirida Ou Recebida De Terceiros, Que Nao Deva Por Ele Transitar
+7127-Venda De Producao Do Estabelecimento Sob O Regime De Drawback
+7201-Devolucao De Compra Para Industrializacao
+7202-Devolucao De Compra Para Comercializacao
+7205-Anulacao De Valor Relativo A Aquisicao De Servico De Comunicacao
+7206-Anulacao De Valor Relativo A Aquisicao De Servico De Transporte
+7207-Anulacao De Valor Relativo A Compra De Energia Eletrica
+7210-Devolucao De Compra Para Utilizacao Na Prestacao De Servico
+7211-Devolucao De Compras Para Industrializacao Sob O Regime De Drawback
+7251-Venda De Energia Eletrica Para O Exterior
+7301-Prestacao De Servico De Comunicacao Para Execucao De Servico Da Mesma Natureza
+7358-Prestacao De Servico De Transporte
+7501-Exportacao De Mercadorias Recebidas Com Fim Especifico De Exportacao
+7551-Venda De Bem Do Ativo Imobilizado
+7553-Devolucao De Compra De Bem Para O Ativo Imobilizado
+7556-Devolucao De Compra De Material De Uso Ou Consumo
+7651-Venda De Combustivel Ou Lubrificante De Producao Do Estabelecimento (Ajuste Sinief 09/03)
+7654-Venda De Combustivel Ou Lubrificante Adquirido Ou Recebido De Terceiros (Ajuste Sinief 09/03)
+7930-Lancamento Efetuado A Titulo De Devolucao De Bem Cuja Entrada Tenha Ocorrido Sob Amparo De Regime Especial Aduaneiro De Admissao Temporaria
+7949-Outra Saida De Mercadoria Ou Prestacao De Servico Nao Especificado

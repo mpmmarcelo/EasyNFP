@@ -1,0 +1,16 @@
+.root{
+    -fx-background-color: #333333
+}
+
+.label{
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-background-color: dimgray;
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    -fx-font-weight: bold;
+}
