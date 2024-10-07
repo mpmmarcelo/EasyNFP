@@ -12,3 +12,6 @@ Login screen
 
 ![plot](imgs/app_screenshot.png)
 App screen
+
+![Alt Text](imgs/preview.gif)
+Preview
