@@ -1,4 +1,7 @@
 Easy NFP </p>
+
+![JAVA](https://img.shields.io/badge/JAVA-e60000) ![JAVAFX](https://img.shields.io/badge/JAVAFX-ff9900) ![SELENIUM](https://img.shields.io/badge/SELENIUM-6699ff) ![MONGODB](https://img.shields.io/badge/MONGODB-99ff66)
+
 Programa desenvolvido com a finalidade de facilitar e acelerar substancialmente o processo de baixa de notas fiscais do produtor rural - NFP.
 
 Pouco tempo após começar a aprender a desenvolver em java, recebi uma nova atribuição no meu trabalho. Gerenciar o Sistema do Produtor Rural - SPR, além das rotinas de cadastro e alteração de imóveis rurais e produtores, existia uma grande demanda para efetuar a baixa de notas fiscais (efetuar o lançamento das notas no sistema da receita estadual), tarefa não muito agradável e repetitiva. O município na época, devia cerca de 13.000 notas fiscais para a receita, além das que chegavam aos montes todos os dias, e o quadro não dispunha de pessoal suficiente. Tempos difíceis.. 
